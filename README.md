@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephenisgold
-- 👀 I’m interested in backend web development
+- 👀 I’m interested in backend web development and contributing to open source
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on fun projects and games!
 - 📫 How to reach me - You can email me at stephensau2019@gmail.com :)
